@@ -1,8 +1,6 @@
 #include <stdio.h>
 
-/*
- *
- * main - main block with puts
+/* main - main block with puts
  * Return: 0
  */
     
