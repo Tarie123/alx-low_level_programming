@@ -2,9 +2,8 @@
 
 /*
  *
- *   main - main block
- *
- *  Return: 0
+ * main - main block with puts
+ * Return: 0
     */
 
 int main(void)
