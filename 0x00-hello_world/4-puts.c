@@ -1,10 +1,12 @@
 #include <stdio.h>
 
-/*
+/**
  *
  * main - main block with puts
+ *
  * Return: 0
-    */
+ */
+    
 
 int main(void)
 
