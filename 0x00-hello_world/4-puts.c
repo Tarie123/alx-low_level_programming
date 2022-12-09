@@ -6,7 +6,7 @@
  *Return: 0
  *
  */
-int main(void)
+int main(void)  /*funct main*/
 {
 
 		puts("\"Programming is like building a multilingual puzzle");
