@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /*
- * main - main block
+ * main printing outcome
+ *
  * Return: 0
  */
 int main(void)
