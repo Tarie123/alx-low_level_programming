@@ -7,14 +7,10 @@
   *       
   */
 int main(void)
-
 {
 
-		char c = 'a';
-
-
-
-			while (c <= 'z')
+ char c = 'a';
+while (c <= 'z')
 
 					{
 
@@ -30,7 +26,7 @@ int main(void)
 
 
 
-					while (c <= 'Z')
+while (c <= 'Z')
 
 							{
 
