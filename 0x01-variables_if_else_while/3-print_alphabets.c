@@ -1,6 +1,8 @@
 #include <stdio.h>
-
- 
+/**
+ * main - main funct
+ * Return 0
+ */
 int main(void)
 {
 char c = 'a';
