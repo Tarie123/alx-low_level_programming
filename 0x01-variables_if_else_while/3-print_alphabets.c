@@ -3,7 +3,6 @@
  /**
   *                                                                                                                             
   * main - main block                                                                                                        
-  * Description: Use `putchar`                                               
   * Return: 0                                                                                                                 
   */
 int main(void)
