@@ -21,8 +21,5 @@ while (c <= 'Z')                              �
 putchar(c);                                                                                                                     
 c++;                                                                                                                            
 }                                                                                                                              
-	                                                                                                                      ppputchar('\n');                                                                                                                  
-
-		                                                                                                              rrreturn (0);                                                                                                                    
-
+	                                                                                                                      ppputchar('\n');                                                                                                                		                                                                                                              rrreturn (return (0);   
 }  
