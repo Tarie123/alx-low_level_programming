@@ -1,5 +1,7 @@
 #include <stdio.h>
- /**                                                                                                                            
+
+ /**
+  *                                                                                                                             
   * main - main block                                                                                                        
   * Description: Use `putchar`                                               
   * Return: 0                                                                                                                 
