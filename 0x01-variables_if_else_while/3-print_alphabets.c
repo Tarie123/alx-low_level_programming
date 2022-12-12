@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - main funct
+ * Description: Use `putchar` to print lowercase and then uppercase alphabet.
  * Return 0
  */
 int main(void)
@@ -19,6 +20,5 @@ c++;
 }
 putchar('\n');
 return (0);
-
 }
 
