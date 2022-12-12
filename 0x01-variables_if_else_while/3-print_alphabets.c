@@ -2,9 +2,9 @@
  /**                                                                                                                            
   * main - main block                                                                                                        
   *
-  * Description: Use `putchar` to print lowercase and then uppercase alphabet.                                               
-  * Return: 0                                                                                                           
-  *       
+  * Description: Use `putchar` to print
+  * lowercase and then uppercase alphabet.                                               
+  * Return: 0                                                                                                                 
   */
 int main(void)
 {
@@ -15,12 +15,11 @@ putchar(c);
 c++;
 	}
 
-     c = 'A';
+c = 'A';
 while (c <= 'Z')
   {
 putchar(c);
 c++;
-
 }
 putchar('\n');
 
