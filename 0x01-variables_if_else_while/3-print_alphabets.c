@@ -2,7 +2,7 @@
 /**
  * main - main funct
  * Description: Use `putchar` to print lowercase and then uppercase alphabet.
- * Return 1
+ * Return 0
  */
 int main(void)
 {
@@ -19,6 +19,6 @@ putchar(c);
 c++;
 }
 putchar('\n');
-return (1);
+return (0);
 }
 
