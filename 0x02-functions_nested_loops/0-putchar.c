@@ -3,7 +3,7 @@
  * main - Print "Holberton" followed by a new line.
  * Return: 0(success)
  */
-int main.h(void)
+int main(void)
 {
 char holberton[] = "Holberton";
 int i = 0;
