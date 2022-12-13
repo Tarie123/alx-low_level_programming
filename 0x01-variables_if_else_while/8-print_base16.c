@@ -3,7 +3,7 @@
  * main - main block
  * Description: Print all numbers of base64 in lowercase.
  * You can only use `putchar`, and only 3 times.
- * Return 0
+ * Return: 0(success)
  */
 int main(void)
 {
