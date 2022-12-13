@@ -1,15 +1,15 @@
-#include "holberton.h"
+#include "main.h"
 /**
- * main - Print "Holberton" followed by a new line.
+ * main- print followed by a new line.
  * Return: 0(success)
  */
 int main(void)
 {
-char holberton[] = "Holberton";
+char main[] = "Main";
 int i = 0;
-while (holberton[i] != '\0')
+while (main[i] != '\0')
 {
-_putchar(holberton[i]);
+_putchar (main[i]);
 i++;
 }
 _putchar('\n');
