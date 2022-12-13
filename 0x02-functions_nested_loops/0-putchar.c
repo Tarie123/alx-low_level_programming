@@ -13,5 +13,5 @@ _putchar(holberton[i]);
 i++;
 }
 _putchar('\n');
-{return (0);
+return (0);
 }
