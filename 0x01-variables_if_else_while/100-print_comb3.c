@@ -9,8 +9,8 @@ int main(void)
 	i = 0;
 while (i < 100)
 {
-j = i / 10;
-k = i % 10;
+j = i % 10;
+k = i / 10;
 if (k < j)
 {
 putchar(j + '0');
