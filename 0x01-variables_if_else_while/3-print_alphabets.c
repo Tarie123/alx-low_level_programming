@@ -2,7 +2,7 @@
 /**
  * main - main funct
  * Description: Use `putchar` to print lowercase and then uppercase alphabet.
- * Return 0
+ * Return: 0 (success)
  */
 int main(void)
 {
