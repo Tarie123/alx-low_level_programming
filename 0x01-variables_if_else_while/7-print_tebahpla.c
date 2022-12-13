@@ -2,7 +2,7 @@
 /**
  * main - main block
  * Description: Print the alphabet in reverse order in lowercase.
- * Return 0
+ * Return: 0 (success)
  */
 int main(void)
 {
