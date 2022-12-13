@@ -5,11 +5,11 @@
  */
 int main(void)
 {
-char main[] = "Main";
+char _putchar[] = "_putchar";
 int i = 0;
-while (main[i] != '\0')
+while (_putchar[i] != '\0')
 {
-_putchar (main[i]);
+_putchar (_putchar[i]);
 i++;
 }
 _putchar('\n');
