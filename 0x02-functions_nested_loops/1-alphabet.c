@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - printing the aplhabert
- * Return: 0
+ * Return:0(success)
  */
 void print_alphabet(void)
 {char c = 'a';
@@ -11,5 +11,4 @@ _putchar(c);
 c++;
 }
 _putchar('\n');
-return (0);
 }
