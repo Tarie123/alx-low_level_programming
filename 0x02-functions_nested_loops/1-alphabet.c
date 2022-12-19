@@ -2,7 +2,7 @@
 /**
  * main - print alphabet
  *
- * return: 0
+ * return: 0(success)
  */
 void print_alphabet(void)
 {char c = 'a';
