@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - printing the aplhabert
- * Return: 0(success)
+ * Return: 0
  */
 void print_alphabet(void)
 {char c = 'a';
