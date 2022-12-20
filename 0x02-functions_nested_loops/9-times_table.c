@@ -34,7 +34,7 @@ if (y != 9)
 _putchar(',');
 _putchar(' ');
 }
-y++
+y++;
 }
 _putchar('\n');
 x++;
