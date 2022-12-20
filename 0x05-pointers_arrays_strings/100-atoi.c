@@ -2,6 +2,8 @@
 /**
  * _atoi - Convert a string to integer.
  * @s: char array string
+ * If there are no numbers in the string, return 0.
+ * Return: first integer found in string
  */
 int _atoi(char *s)
 {
