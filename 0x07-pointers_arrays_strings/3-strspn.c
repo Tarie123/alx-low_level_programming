@@ -5,7 +5,7 @@
  * @accept: character string                                                                                                    
  * Return: returns number of bytes in the initial segment s which consist                                                       
  * of bytes from accept                                                                                                         
- */                                                                                                                             
+ */
 unsigned int _strspn(char *s, char *accept)                                                                                     
 {                                                                                                                             
 int i;                                                                                                                  
