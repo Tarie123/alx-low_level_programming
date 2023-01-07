@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strcmp - a function that copies a string
+ * _strcmp - a function
  * @s1: string
  * @s2: string
  * Return: string
@@ -11,7 +11,7 @@ for (; *s1 != '\0' && *s2 != '\0'; s1++, s2++)
 {
 if (*s1 != *s2)
 {
-return (*s1 - *s2)
+return (*s1 - *s2);
 }
 else if (*s1 == '\0' || *s2 == '\0')
 {
