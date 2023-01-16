@@ -43,4 +43,4 @@ _dog->name[k] = '\0';
 _dog->owner[l] = '\0';
 _dog->age = age;
 return (_dog);
-i}
+}
