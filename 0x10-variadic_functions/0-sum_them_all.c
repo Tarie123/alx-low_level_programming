@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdarg.h>
 /**
- * sum_them_all - a fun returns the sum of all its parameters
+ * sum_them_all - a fun returns 
  * @n: number of arguments
  * Return: sum of arguments
  */
