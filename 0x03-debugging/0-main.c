@@ -7,7 +7,6 @@ int main(void)
 {
 int i;
 i = 0;
-/* dont delete it*/
 positive_or_negative(i);
 return (0);
 }
