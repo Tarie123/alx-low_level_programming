@@ -4,7 +4,7 @@
 /**
  * print_list - prints all the elements of a linked_lit
  * @h: a linked_list
- * @len :  string length
+ * @len:  string length
  * Return: a structure to a linked_list
  */
 size_t print_list(const list_t *h)
