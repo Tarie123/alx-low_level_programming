@@ -9,10 +9,13 @@
  * for Holberton project
  */
 typedef struct list_s
+
 {
- char *str;
+
+char *str;
 unsigned int len;
 struct list_s *next;
+
 } list_t;
 void printFirst(void) __attribute__((constructor));
 size_t print_list(const list_t *h);
