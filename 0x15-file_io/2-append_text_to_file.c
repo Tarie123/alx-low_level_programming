@@ -1,8 +1,8 @@
 #include "file.h"
 /**
  * append_text_to_file - append text to file
- * @filename: 
- * @text_content:
+ * @filename: -
+ * @text_content: -
  * Return: Success ? 1 : -1
  */
 int append_text_to_file(const char *filename, char *text_content)
